@@ -1,0 +1,28 @@
+{
+    "clientes": {
+        "12345678900": {
+            "nome": "Jo\u00c3\u00a3o"
+        },
+        "54475431859": {
+            "nome": "Nicolas Daniel"
+        }
+    },
+    "contas": {
+        "1": {
+            "cpf": "12345678900",
+            "saldo": 1000,
+            "extrato": [
+                "Dep\u00c3\u00b3sito: R$ 1000.00"
+            ],
+            "numero_saques": 0
+        },
+        "2": {
+            "cpf": "54475431859",
+            "saldo": 3000.0,
+            "extrato": [
+                "Dep\u00f3sito: R$ 3000.00"
+            ],
+            "numero_saques": 0
+        }
+    }
+}
